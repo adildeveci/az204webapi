@@ -29,6 +29,11 @@
 
 Bu proje Microsoft AZ204 eğitimi için hazırlanmış örnek basit bir NodeJS api projesidir. 
 
+![image](https://user-images.githubusercontent.com/21089760/159292063-6e0223cb-a898-41c9-aeb5-3528a68ecd29.png)
+
+![image](https://user-images.githubusercontent.com/21089760/159294264-9bae9f1b-9448-44a0-b318-614d6a290b6c.png)
+
+
 
  <p align="right">(<a href="#top">back to top</a>)</p>
 
