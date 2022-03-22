@@ -43,8 +43,9 @@ Bu proje Microsoft AZ204 eğitimi için hazırlanmış örnek basit bir NodeJS a
 * [NodeJS](https://nodejs.org/) 
  
  <p align="right">(<a href="#top">back to top</a>)</p>
+ 
 <!-- GETTING STARTED -->
-## Getting Started
+### Getting Started
 
 Uygulamayı lokalinizi indirerek bağımlılıkları yükledikten sonra çalıştırabilirsiniz
 
@@ -52,9 +53,9 @@ Uygulamayı lokalinizi indirerek bağımlılıkları yükledikten sonra çalış
 
 This is an example of how to list things you need to use the software and how to install them.
 
-[NodeJS](https://nodejs.org/en/download/)
-[Docker Desktop](https://www.docker.com/products/docker-desktop) 
-[Azure Command Line](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
+* [NodeJS](https://nodejs.org/en/download/)
+* [Docker Desktop](https://www.docker.com/products/docker-desktop) 
+* [Azure Command Line](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 
 ### Installation
  
