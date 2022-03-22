@@ -6,20 +6,19 @@ const app = express()
 app.use(bodyParser.json())
 
 app.get('/api/hello', async (req, res) => {
-
     res.send('Hello World')
 })
 
 app.get('/api/merhaba', (req, res) => {
 
-    res.send('Merhaba Dünya')
+    res.send('Merhaba Dünyalı Dostum!')
 })
 
 app.post('/api/name', (req, res) => {
 
-    const body = _.pick(req.body, ['firstName','lastName'])
+    const body = _.pick(req.body, ['firstName', 'lastName'])
     console.log(body)
-    res.send('Hello '+body.firstName+' '+body.lastName)
+    res.send('Hello ' + body.firstName + ' ' + body.lastName)
 })
 
 app.listen(8080, () => {
